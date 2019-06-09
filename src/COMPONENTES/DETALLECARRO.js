@@ -7,7 +7,7 @@ const DETALLECARRO =({nombre,des,costo,imge})=>{
             <hr/>
             <p className="Breve Descripcion">Comentarios : {des}</p>
             <hr/>
-            <span>Costo del Carro {costo} Dolares</span>
+            <span>Costo del Carro {costo} M de Dolares</span>
             <br/>
             <hr/>
 
